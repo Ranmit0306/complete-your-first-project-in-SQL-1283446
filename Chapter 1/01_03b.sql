@@ -1,1 +1,1 @@
--- Insert new grape flavor product into table
+-- Insert new orange flavor product into table
